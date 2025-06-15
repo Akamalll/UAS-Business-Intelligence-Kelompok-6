@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Windows
+*.Zone.Identifier
+*:Zone.Identifier
+*Zone.Identifier
+
+# Database
+*.sqlite3
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment
+.env
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log 
